@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tarea1</string>
+    <string name="password">Ingrese Password</string>
+    <string name="usuario">Ingresar Usuario</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+</resources>
