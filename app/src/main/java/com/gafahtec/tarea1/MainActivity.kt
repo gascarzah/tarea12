@@ -22,5 +22,9 @@ class MainActivity : AppCompatActivity() {
                 Toast.makeText(this, "Favor de volver a intentarlo", Toast.LENGTH_SHORT).show()
             }
         }
+
+        registrarse_button.setOnClickListener {
+            startActivity(Intent (this, Registro::class.java))
+        }
     }
 }
